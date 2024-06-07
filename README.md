@@ -11,4 +11,4 @@ En esta página podrás encontrar:
 -   Fondos y sus diferentes estilos
 -   Animaciones
 
-La página ha sido creada utilizando HTML y CSS. Esta página es una excelente oportunidad para practicar tus habilidades y aprender más sobre HTML y CSS.
+La página ha sido creada utilizando HTML y CSS. Esta página es una excelente oportunidad para practicar habilidades adquiridas y aprender más sobre HTML y CSS.
