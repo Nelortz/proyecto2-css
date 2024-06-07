@@ -2,6 +2,9 @@
 
 [PROPIEDADES CSS](https://proyecto2-css-nelsonortiz.netlify.app/)
 
+![Captura de pantalla](assets/img/img1.png)
+
+
 En este repositorio se propuso mostrar las diferentes propiedades de CSS.
 
 En esta página podrás encontrar:
