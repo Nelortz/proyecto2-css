@@ -1,6 +1,6 @@
 # PROYECTO CSS
 
-[PROPPIEDADES CSS](https://proyecto2-css-nelsonortiz.netlify.app/)
+[PROPIEDADES CSS](https://proyecto2-css-nelsonortiz.netlify.app/)
 
 En este repositorio se propuso mostrar las diferentes propiedades de CSS.
 
